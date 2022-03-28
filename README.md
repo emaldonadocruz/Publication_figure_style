@@ -14,15 +14,15 @@ yt = 2 * x + 1
 y = yt + np.random.normal(loc=0, scale=2, size=yt.size)
 
 fig, ax = plt.subplots()
-ax.plot(x, yt, label="Modelo",color='r')
-ax.scatter(x, y,marker='o',color='k',label = 'Measured points')
+ax.plot(x, yt, label="Model", color='r')
+ax.scatter(x, y, marker='o', color='k', label='Measured points')
 ax.set_xlabel('x values ($m^3$)')
 ax.set_ylabel("y values ($\\frac{m^{3}}{kg}$)")
-ax.set_title("Ejemplo de un gráfico")
+ax.set_title("Figure example")
 ax.legend()
-ax.legend(loc='lower right', shadow=True) 
+ax.legend(loc='lower right', shadow=True)  
 
-plt.savefig('Figure_example.png',dpi=300)
+plt.savefig('Figure_example.png', dpi=300, transparent=True)
 
 ```
 
