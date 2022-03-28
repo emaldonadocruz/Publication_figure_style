@@ -20,7 +20,7 @@ axes.grid       : True
 
 #### TICKS
 xtick.direction     : in
-xtick.top           : True
+xtick.top           : False
 xtick.major.width   : 2
 xtick.major.size    : 10
 xtick.minor.visible : True
@@ -28,7 +28,7 @@ xtick.minor.width   : 2
 xtick.minor.size    : 5
 
 ytick.direction     : in
-ytick.right         : True
+ytick.right         : False
 ytick.major.width   : 2
 ytick.major.size    : 10
 ytick.minor.visible : True
