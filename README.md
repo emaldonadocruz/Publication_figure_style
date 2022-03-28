@@ -29,8 +29,5 @@ plt.savefig('Figure_example.png', dpi=300, transparent=True)
 Example:
 
 <p align="center">
-  <img width="827" 
-       height="1167"  
-       src="https://raw.githubusercontent.com/emaldonadocruz/Publication_figure_style/master/Figure-example/Figure_example.png">
-
+  <img src="https://raw.githubusercontent.com/emaldonadocruz/Publication_figure_style/master/Figure-example/Figure_example.png">
 </p>
