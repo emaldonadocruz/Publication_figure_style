@@ -31,6 +31,6 @@ Example:
 <p align="center">
   <img width="460" 
        height="300"  
-       src="https://raw.githubusercontent.com/emaldonadocruz/Publication_figure_style/blob/master/Figure-example/Figure_example.png">
+       src="https://raw.githubusercontent.com/emaldonadocruz/Publication_figure_style/master/Figure-example/Figure_example.png">
 
 </p>
