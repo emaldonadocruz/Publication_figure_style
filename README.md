@@ -25,3 +25,12 @@ ax.legend(loc='lower right', shadow=True)
 plt.savefig('Figure_example.png',dpi=300)
 
 ```
+
+Example:
+
+<p align="center">
+  <img width="460" 
+       height="300"  
+       src="https://raw.githubusercontent.com/emaldonadocruz/Publication_figure_style/blob/master/Figure-example/Figure_example.png">
+
+</p>
