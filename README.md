@@ -1,7 +1,7 @@
 # Publication figure style
 
 
-Very basic repository with the figure style I use for publications. This repository also includes example code to create this figures
+Very basic repository with the figure style I use for publications. This repository also includes example code to create an example
 
 Usage 
 
