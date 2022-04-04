@@ -6,7 +6,7 @@ Very basic repository with the figure style I use for publications. This reposit
 Usage 
 
 ```python
-plt.style.use('https://raw.githubusercontent.com/RAHXION/Resources/main/Publication_figure_style.mplstyle')
+plt.style.use('https://raw.githubusercontent.com/emaldonadocruz/Publication_figure_style/master/Publication_figure_style.mplstyle')
 
 x = np.random.uniform(0, 10, 30)
 x.sort()
