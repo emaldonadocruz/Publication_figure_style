@@ -7,7 +7,10 @@ Usage
 
 ```python
 plt.style.use('https://raw.githubusercontent.com/emaldonadocruz/Publication_figure_style/master/Publication_figure_style.mplstyle')
+```
 
+Example
+```python
 x = np.random.uniform(0, 10, 30)
 x.sort()
 yt = 2 * x + 1
