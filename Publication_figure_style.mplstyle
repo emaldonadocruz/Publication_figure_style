@@ -8,7 +8,7 @@ savefig.dpi       : 300
 savefig.bbox      : tight
 
 #### FONT
-font.size         : 24
+font.size         : 20
 font.family       : serif
 
 #### LaTeX
