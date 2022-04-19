@@ -18,6 +18,9 @@ mathtext.default  : regular
 axes.linewidth  : 2
 axes.grid       : True
 
+#### GRID
+grid.alpha: 0.5
+
 #### TICKS
 xtick.direction     : in
 xtick.top           : False
