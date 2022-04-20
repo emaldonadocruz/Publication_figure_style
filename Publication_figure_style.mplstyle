@@ -19,7 +19,7 @@ axes.linewidth  : 2
 axes.grid       : True
 
 #### GRID
-grid.alpha		: 0.5
+grid.alpha		: 0.3
 
 #### TICKS
 xtick.direction     : in
