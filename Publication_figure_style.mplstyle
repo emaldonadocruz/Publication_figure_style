@@ -17,9 +17,10 @@ mathtext.default  : regular
 #### AXES
 axes.linewidth  : 2
 axes.grid       : True
+axes.grid.alpha :0.5
 
 #### GRID
-grid.alpha: 0.5
+grid.alpha		: 0.5
 
 #### TICKS
 xtick.direction     : in
