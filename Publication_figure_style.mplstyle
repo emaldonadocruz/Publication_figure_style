@@ -17,6 +17,7 @@ mathtext.default  : regular
 #### AXES
 axes.linewidth  : 2
 axes.grid       : True
+axes.color_cycle    : 332288, 88CCEE, 44AA99, 117733, 999933, DDCC77, CC6677, 882255, AA4499
 
 #### GRID
 grid.alpha		: 0.3
