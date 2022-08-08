@@ -23,7 +23,7 @@ axes.grid       : False
 #grid.alpha		: 0.3
 
 #### TICKS
-xtick.direction     : in
+xtick.direction     : out
 xtick.top           : False
 xtick.major.width   : 2
 xtick.major.size    : 10
@@ -31,7 +31,7 @@ xtick.minor.visible : True
 xtick.minor.width   : 2
 xtick.minor.size    : 5
 
-ytick.direction     : in
+ytick.direction     : out
 ytick.right         : False
 ytick.major.width   : 2
 ytick.major.size    : 10
@@ -39,8 +39,8 @@ ytick.minor.visible : True
 ytick.minor.width   : 2
 ytick.minor.size    : 5
 
-xtick.labelsize : x-small
-ytick.labelsize : x-small
+xtick.labelsize : small
+ytick.labelsize : small
 
 
 ####LEGEND
