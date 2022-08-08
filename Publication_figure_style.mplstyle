@@ -41,10 +41,7 @@ ytick.minor.size    : 5
 
 xtick.labelsize : x-small
 ytick.labelsize : x-small
-xtick.major.size     : 4
-xtick.minor.size     : 2
-ytick.major.size     : 4
-ytick.minor.size     : 2
+
 
 ####LEGEND
 
