@@ -3,44 +3,20 @@
 ## matplotlib configuration for plots for publications.
 
 #### FIGURE
-figure.figsize    : 11.67, 8.27
+figure.figsize    : 6*1.618, 6
 savefig.dpi       : 300
 savefig.bbox      : tight
 
 #### FONT
-font.size         : 18
+font.size         : 16
 font.family       : serif
-
-#### LaTeX
-mathtext.default  : regular
 
 #### AXES
 axes.linewidth  : 2
-axes.grid       : False
-#axes.prop_cycle    : cycler('color',["332288", "88CCEE", "44AA99", "117733", "999933", "DDCC77", "CC6677", "882255", "AA4499"])
-
-#### GRID
-#grid.alpha		: 0.3
 
 #### TICKS
-xtick.direction     : in
-xtick.top           : False
-xtick.major.width   : 2
-xtick.major.size    : 10
-xtick.minor.visible : True
-xtick.minor.width   : 2
-xtick.minor.size    : 5
-
-ytick.direction     : in
-ytick.right         : False
-ytick.major.width   : 2
-ytick.major.size    : 10
-ytick.minor.visible : True
-ytick.minor.width   : 2
-ytick.minor.size    : 5
-
-
+xtick.labelsize     : small
+ytick.labelsize     : small
 
 ####LEGEND
-
 legend.fancybox     : True
