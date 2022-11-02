@@ -12,7 +12,7 @@ font.size         : 16
 font.family       : serif
 
 #### AXES
-axes.linewidth  : 1
+axes.linewidth  : 1.5
 
 #### TICKS
 xtick.labelsize     : small
