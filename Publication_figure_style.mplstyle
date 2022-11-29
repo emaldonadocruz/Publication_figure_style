@@ -6,6 +6,7 @@
 figure.figsize    : 9.708, 6
 savefig.dpi       : 300
 savefig.bbox      : tight
+figure.facecolor  : white
 
 #### FONT
 font.size         : 16
